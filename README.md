@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hendri Wahyu Perdana</h1>
-- 🌱 I’m currently learning **React, Next, Nest**
-- 💬 Ask me about **Laravel**
-- 📫 How to reach me **hendriwp123@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/hendri-whyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/hendriwhyu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -53,8 +50,4 @@
 <div align="center">
 <a href="https://github.com/hendriwhyu">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hendriwhyu&theme=react" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hendriwhyu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hendriwhyu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hendriwhyu&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendriwhyu&theme=2077" height="180em" />
 </div>
